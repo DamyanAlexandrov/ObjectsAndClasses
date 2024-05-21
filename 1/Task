@@ -1,0 +1,1 @@
+You are given 2 lines of input strings for 2 dates in format day-month-year. Compare them and check if the dates are in the same weekday. If they are print: "Yes" and on a new line print the name of the day. If the dates are in different days print "No".
